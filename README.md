@@ -4,6 +4,8 @@
 
 In this project, I applied the skills acquired in the Convolutional Neural Network (CNN) course to build a landmark classifier. The aim was to develop a model that can automatically predict the location of an image based on discernible landmarks depicted in it. This is particularly useful for photo sharing and storage services that rely on location data to enhance user experience through features like automatic tagging and photo organization.
 
+![image_2024-11-15_094821279](https://github.com/user-attachments/assets/70453e2c-202b-45e6-a7f7-3b77beaaedf4)
+
 ## Project Steps
 
 The project consists of three major steps, each carried out in a corresponding Jupyter Notebook:
